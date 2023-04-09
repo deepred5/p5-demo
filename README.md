@@ -9,4 +9,4 @@ npm i
 npm run dev
 ```
 
-open `http://127.0.0.1:5555/`
+open `http://127.0.0.1:5555/` to see demo
