@@ -1,0 +1,23 @@
+{
+  "name": "p5-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "http-server ./demo -p 5555  -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepred5/p5-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepred5/p5-demo/issues"
+  },
+  "homepage": "https://github.com/deepred5/p5-demo#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
